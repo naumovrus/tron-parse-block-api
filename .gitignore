@@ -1,0 +1,4 @@
+.env
+data.json
+config.yaml
+internal/parser
